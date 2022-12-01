@@ -9,7 +9,7 @@ if __name__ == '__main__':
     operator = argv[2]
     b = int(argv[3])
     if argv[2] not in '+-*/':
-        print('Unknown operator.')
+        print('Unknown operator. Available operators: +, -, * and /')
         exit(1)
     if argv[2] == '+':
         print('{} + {} = {}'.format(a, b, add(a, b)))
