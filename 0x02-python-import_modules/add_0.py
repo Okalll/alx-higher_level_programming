@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def add(a, b):
-	"""My additin function
+	"""My addition function
 
 	Args:
 		a: first integer
