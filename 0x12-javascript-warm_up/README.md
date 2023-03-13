@@ -2,20 +2,6 @@
 
  Tasks involved writing various introductory-level JavaScript scripts on Node.js.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by Holberton School.
-
-## Function Prototypes :floppy_disk:
-
-Prototypes for functions written in this project:
-
-| File        | Prototype                                  |
-| ----------- | ------------------------------------------ |
-| `13-add.js` | `exports.add = (a, b)`                     |
-| `101-call_me_moby.js` | `function (x, theFunction)`      |
-| `102-add_me_maybe.js` | `function (number, theFunction)` |
-
 ## Tasks :page_with_curl:
 
 * **0. First constant, first print**
